@@ -1,0 +1,25 @@
+/* nav style */
+nav{
+    display: flex;
+    justify-content: space-between;
+}
+nav > ul{
+display: flex;
+color: #3C354F;
+font-family: Work Sans;
+font-size: 18px;
+
+font-weight: 500;
+
+}
+nav li{list-style: none;
+    margin-right: 55px;
+    margin-top: 50px;
+}
+nav > h3{
+font-family: Work Sans;
+font-size: 45px;
+
+font-weight: 700;
+
+}
