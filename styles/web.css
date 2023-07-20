@@ -123,7 +123,7 @@ padding: 21px 40px;
 align-items: flex-start;
 gap: 10px;
 border-radius: 48px;
-background: var(--linear, linear-gradient(90deg, #FF42A5 0%, #FF42A5 100%));
+background-color: #FF42A5;
 border: none;
 }
 .div1{
@@ -140,6 +140,31 @@ font-weight: 700;
     display: flex;
     width: 300px;
 height: 300px;
-margin:5% 10%;
+margin:5% 5%;
 gap: 5%;
+}
+.sec3{
+    position: relative;
+}
+.overlay{
+    position: absolute;
+right: 0;
+bottom: 0;
+padding-top: 5%;
+padding-right: 30%;
+}
+.sec5{
+    display: flex;
+}
+.sec4{
+    text-align: right;
+    margin-top: 20%;
+    
+}
+#p10{
+    font-family: Work Sans;
+font-size: 48px;
+font-style: normal;
+font-weight: 700;
+line-height: 60px; /* 125% */
 }
