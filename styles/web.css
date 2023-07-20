@@ -19,7 +19,18 @@ nav li{list-style: none;
 nav > h3{
 font-family: Work Sans;
 font-size: 45px;
-
 font-weight: 700;
+margin-left: 50px;
+}
+.btn{
+    color: #3C354F;
+font-family: Work Sans;
+font-size: 18px;
+font-weight: 500;
+display: flex;
+}
 
+.txt-dec{
+    justify-content: space-between;
+    margin-left: 20px;
 }
